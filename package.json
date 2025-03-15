@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "fetch-mock": "^5.9.4",
-    "jsdom": "^9.9.1",
-    "mocha": "^3.2.0",
-    "react-scripts": "^1.0.7",
+    "fetch-mock": "^12.5.2",
+    "jsdom": "^26.0.0",
+    "mocha": "^11.1.0",
+    "react-scripts": "^5.0.1",
     "react-test-renderer": "^16.0.0",
-    "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.9.1"
+    "webpack": "^5.98.0",
+    "webpack-dev-server": "^5.2.0"
   },
   "dependencies": {
     "babel-core": "^6.22.1",
@@ -20,11 +20,11 @@
     "babel-preset-stage-1": "^6.24.1",
     "chai": "^3.5.0",
     "enzyme": "^3.1.0",
-    "enzyme-adapter-react-16": "^1.0.1",
+    "enzyme-adapter-react-16": "^1.15.8",
     "expect": "^21.2.1",
-    "mocha-multi": "^1.0.1",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
+    "mocha-multi": "^1.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^16.14.0",
     "sinon": "^1.17.7",
     "whatwg-fetch": "^2.0.3"
   },
